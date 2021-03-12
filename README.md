@@ -1,7 +1,7 @@
 
 
 # Getting Started with Create React App
-img src = "https://github.com/LucasAlvesM/meu-react-app/blob/main/CapturaTela.png"
+<img alt="CapturaTelaInicio" src="https://github.com/LucasAlvesM/meu-react-app/blob/main/CapturaTela.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
